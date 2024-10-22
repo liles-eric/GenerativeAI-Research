@@ -1,18 +1,10 @@
 ---
 id: how-mid-size-businesses-can-avoid-missing-the-ai-opportunity
-title: Ghra Missed Opportunity
-desc: >-
-  Lessons from a Regional Distributor on the use of AI in category management,
-  procurement, and master data management.
-updated: '2024-10-21T00:00:00.000Z'
-created: '2024-10-21T00:00:00.000Z'
-tags:
-  - AI
-  - procurement
-  - business
-  - generative-ai
-  - strategy
----
+title: How Mid-Size Businesses Can Avoid Missing the AI Opportunity
+desc: Lessons from a Regional Distributor on the use of AI in category management, procurement, and master data management.
+updated: 2024-10-21
+created: 2024-10-21
+tags: [AI, procurement, business, generative-ai, strategy]
 ---
 # How Mid-Size Businesses Can Avoid Missing the AI Opportunity: Lessons from a Regional Distributor
 
@@ -63,3 +55,4 @@ The regional distributor's failure to adopt AI offers a stark reminder of the ri
 [^6]: UPS. (2021). *AI-powered routing, fuel efficiency, and cost reduction*. UPS Case Study.
 [^7]: Maersk. (2021). *AI for supply chain visibility and predictive analytics*. Maersk Case Study.
 [^8]: ExxonMobil. (2021). *AI in operational decision-making and predictive maintenance*. ExxonMobil Case Study.
+
