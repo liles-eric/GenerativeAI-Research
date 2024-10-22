@@ -26,7 +26,7 @@ Feel free to explore the folders for the necessary resources.
 
 - **For Articles and Documentation:** Please head to the **notes** section to access all articles, reports, and related documents.
 
-# NOTES AND RESEARCH ON GENERATIVE AI
+# Notes & Research on Generative AI
 
 Welcome to the **GenerativeAI Research Notes Section**! This repository is structured to help organize research, drafts, and GPT personas, and to facilitate efficient content creation for both general audience publications and scholarly journals.
 
