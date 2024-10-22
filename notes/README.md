@@ -20,7 +20,7 @@ Welcome to this project repository! Below is a simple guide on how to navigate a
   - Videos
   - Graphics
 
-Don't forget to expand the folders to get to the good stuff - lol.
+Don't forget to expand the folders to get to the good stuff.
 
 Feel free to explore the folders for the necessary resources.
 
