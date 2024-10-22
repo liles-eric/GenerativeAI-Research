@@ -30,6 +30,8 @@ Feel free to explore the folders for the necessary resources.
 
 Welcome to the **GenerativeAI Research Notes Section**! This section is structured to help organize research, drafts, and GPT personas, and to facilitate efficient content creation for both general audience publications and scholarly journals.
 
+Don't forget to expand the folders to get to the good stuff - lol.
+
 ## Folder Structure
 
 ### 1. **assets/**
