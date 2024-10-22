@@ -1,7 +1,7 @@
 ---
 id: ais-next-leap-wired
-title: AI’s Next Leap: How Neuromorphic Chips and Real-Time Learning Could Unlock the Future of Conscious Machines
-desc: Exploring the potential of neuromorphic chips, like Intel’s Loihi, to bring real-time learning and human-like cognition to AI.
+title: "AI’s Next Leap: How Neuromorphic Chips and Real-Time Learning Could Unlock the Future of Conscious Machines"
+desc: "Exploring the potential of neuromorphic chips, like Intel’s Loihi, to bring real-time learning and human-like cognition to AI."
 updated: 2024-10-21
 created: 2024-10-21
 tags: [AI, technology, neuromorphic, Wired, future-tech, real-time-learning]
