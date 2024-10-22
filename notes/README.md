@@ -2,8 +2,8 @@
 id: README
 title: GenerativeAI Research Workspace
 desc: Overview and structure of the GenerativeAI Research workspace.
-updated: {{PUT_THE_DATE_HERE}}
-created: {{PUT_THE_DATE_HERE}}
+updated: 10/21/2024 
+created: 10/20/2024
 tags: [documentation]
 ---
 
