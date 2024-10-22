@@ -6,6 +6,25 @@ updated: 10/21/2024
 created: 10/20/2024
 tags: [documentation]
 ---
+# Project Repository
+
+Welcome to this project repository! Below is a simple guide on how to navigate and use this repo effectively.
+
+## Contents
+
+- **Notes Section:** This section contains detailed articles and documentation. Please reference the notes folder for key insights and written content.
+  
+- **Base Folders:** These are dedicated to supporting materials, including:
+  - Scripts
+  - Presentations
+  - Videos
+  - Graphics
+
+Feel free to explore the folders for the necessary resources.
+
+## How to Use
+
+- **For Articles and Documentation:** Please head to the **notes** section to access all articles, reports, and related documents.
 
 # GenerativeAI Research Workspace
 
