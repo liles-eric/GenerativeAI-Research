@@ -1,9 +1,9 @@
 ---
 id: the-symphony-of-ai
-title: The Symphony of AI: How Music and the Flow State Are Revolutionizing Human Creativity
-desc: Exploring how AI, through music and neuroscience, enhances human creativity in real-time, fostering new creative possibilities.
-updated: 2024-10-21
-created: 2024-10-21
+title: "The Symphony of AI: How Music and the Flow State Are Revolutionizing Human Creativity"
+desc: "Exploring how AI, through music and neuroscience, enhances human creativity in real-time, fostering new creative possibilities."
+updated: "2024-10-21"
+created: "2024-10-21"
 tags: [AI, creativity, neuroscience, flow-state, music, Wired, real-time-learning, AI-enhancement]
 ---
 
