@@ -1,6 +1,6 @@
 ---
 id: how-mid-size-businesses-can-avoid-missing-the-ai-opportunity
-title: Outline Ghra Missed Opportunity
+title: Ghra Missed Opportunity
 desc: >-
   Lessons from a Regional Distributor on the use of AI in category management,
   procurement, and master data management.
