@@ -54,3 +54,13 @@ These possibilities highlight the **ethical challenges** that come with such adv
 
 ## Conclusion: The Future is Now
 We’re standing on the edge of a new era in AI. With **neuromorphic chips** like **Loihi**, machines could become more **adaptable**, more **transparent**, and possibly even more **human-like**. While challenges remain—such as the need for **quantum processing** to achieve full AI sentience—the pieces are falling into place. The solution to the **black box problem** won’t come from understanding every piece of code but by building machines that **think in ways we can finally understand**.
+
+---
+
+## References and Further Reading
+
+1. Davies, Mike. "Loihi: A Neuromorphic Manycore Processor with On-Chip Learning." _IEEE Micro_, vol. 38, no. 1, 2018, pp. 82-99. doi:10.1109/MM.2018.112130174.
+2. Markoff, John. "Brainlike Computers, Learning From Experience." _The New York Times_, 29 Sept. 2013, www.nytimes.com/2013/09/30/technology/brainlike-computers-learning-from-experience.html.
+3. Merolla, Paul A., et al. "A Million Spiking-Neuron Integrated Circuit with a Scalable Communication Network and Interface." _Science_, vol. 345, no. 6197, 2014, pp. 668-673. doi:10.1126/science.1254642.
+4. Rajan, K. "Neuromorphic Computing: The Case for Real-Time Learning." _IEEE Spectrum_, 2022, spectrum.ieee.org/neuromorphic-computing-real-time-learning.
+5. Intel Corporation. "Intel Loihi: Neuromorphic Computing for Real-Time AI Learning." _Intel Official Site_, www.intel.com/content/www/us/en/research/neuromorphic-computing.html.
