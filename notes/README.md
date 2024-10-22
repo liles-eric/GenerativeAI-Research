@@ -20,6 +20,8 @@ Welcome to this project repository! Below is a simple guide on how to navigate a
   - Videos
   - Graphics
 
+Don't forget to expand the folders to get to the good stuff - lol.
+
 Feel free to explore the folders for the necessary resources.
 
 ## How to Use
@@ -30,7 +32,7 @@ Feel free to explore the folders for the necessary resources.
 
 Welcome to the **GenerativeAI Research Notes Section**! This section is structured to help organize research, drafts, and GPT personas, and to facilitate efficient content creation for both general audience publications and scholarly journals.
 
-Don't forget to expand the folders to get to the good stuff - lol.
+Again, don't forget to expand the folders to get to the good stuff - lol.
 
 ## Folder Structure
 
