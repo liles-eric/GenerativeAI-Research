@@ -33,7 +33,7 @@ Welcome to the **GenerativeAI Research Notes Section**! This section is structur
 ## Folder Structure
 
 ### 1. **assets/**
-   This folder contains images, diagrams, and any other static resources that may be used in drafts, presentations, or notes.
+   This folder contains documentation onimages, diagrams, and any other static resources that may be used in drafts, presentations, or notes.  The actual files are found in the main folders under the Repository Root.
 
 ### 2. **final-submissions/**
    Once drafts are finalized and ready for submission to journals or publishers, they are stored here for easy reference.
