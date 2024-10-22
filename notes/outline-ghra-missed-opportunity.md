@@ -14,7 +14,7 @@ tags:
   - strategy
 ---
 ---
-i# How Mid-Size Businesses Can Avoid Missing the AI Opportunity: Lessons from a Regional Distributor
+# **How Mid-Size Businesses Can Avoid Missing the AI Opportunity: Lessons from a Regional Distributor**
 
 ## Executive Summary
 As mid-sized businesses face increasing pressure to modernize, many overlook the transformative power of **Generative AI**. This article examines lessons from a mid-sized regional distributor that failed to adopt AI for category management, procurement, and master data management. By missing out on AI-driven innovations, the company lost opportunities for cost savings and efficiency improvements. This article highlights AI’s strategic importance and provides a roadmap for mid-sized businesses to avoid similar pitfalls.
