@@ -17,7 +17,7 @@ jobs:
     - name: Search for keyword in markdown files
       run: |
         echo "Searching for the keyword 'AI' in markdown files..."
-        grep -rni "AI" --include \*.md . || echo "No matches found"
+        grep -rni -e "ChatGPT" -e "Generative AI" -e "black box" --include \*.md . || echo "No matches found"
 
 
 
