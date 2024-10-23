@@ -1,2 +1,22 @@
+name: Automated Markdown Search
+
+on: 
+  workflow_dispatch:   # Allows you to run this manually from GitHub Actions tab
+  push:                # Runs automatically every time you push new code
+    branches:
+      - main           # Only runs when changes are made to the main branch
+
+jobs:
+  search:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository content
+      uses: actions/checkout@v2
+
+    - name: Search for keyword in markdown files
+      run: |
+        echo "Searching for the keyword 'AI' in markdown files..."
+        grep -rni "AI" --include \*.md . || echo "No matches found"
 
 
