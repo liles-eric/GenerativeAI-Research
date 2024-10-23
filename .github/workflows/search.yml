@@ -12,11 +12,12 @@ jobs:
     
     steps:
     - name: Checkout repository content
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3    # Updated to v3 to avoid Node.js deprecation warnings
 
     - name: Search for keyword in markdown files
       run: |
         echo "Searching for the keyword 'AI' in markdown files..."
         grep -rni "AI" --include \*.md . || echo "No matches found"
+
 
 
